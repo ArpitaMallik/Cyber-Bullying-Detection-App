@@ -12,5 +12,5 @@
             "dest": "app.py"
         }
     ],
-    "buildCommand": "pip install --no-cache-dir --only-binary=:all: -r requirements.txt"
+    "buildCommand": "pip install --no-cache-dir -r requirements.txt"
 }
